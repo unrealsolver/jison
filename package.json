@@ -34,7 +34,7 @@
     "esprima": "1.1.x",
     "escodegen": "1.3.x",
     "jison-lex": "0.3.x",
-    "ebnf-parser": "git@github.com:unrealsolver/ebnf-parser.git",
+    "ebnf-parser": "https://github.com/unrealsolver/ebnf-parser.git",
     "lex-parser": "~0.1.3",
     "nomnom": "1.5.2",
     "cjson": "0.3.0"
